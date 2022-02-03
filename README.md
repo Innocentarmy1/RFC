@@ -25,4 +25,7 @@ TELEGRAM POWERFULL GROUP MANAGEMENT BOT
 
 
 
-
+## 🆂🆄🅿🅿🅾🆁🆃
+[![RFC](https://img.shields.io/badge/RFC-Channel-red?style=for-the-badge&logo=telegram)](https://t.me/RFCTEAM)</br></br>
+[![RFC](https://img.shields.io/badge/RFC-Group-red?style=for-the-badge&logo=telegram)](https://t.me/RFC_TEAM)</br></br>
+[![CONTACT ME](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/DEEWANA_MAHADEV_KA)
