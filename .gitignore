@@ -1,16 +1,16 @@
 # Config files, logs and stuff
-FallenRobot/modules/helper_funcs/temp.txt
-FallenRobot/elevated_users.json
-FallenRobot/config.py
-FallenRobot/config.ini
+Rfc/modules/helper_funcs/temp.txt
+Rfc/elevated_users.json
+Rfc/config.py
+Rfc/config.ini
 log.txt
 kangsticker.png
 updates.txt
 
 # Session files
-FallenRobot/*.session
-FallenRobot/*.session-journal
-Fallen.session-journal
+Rfc/*.session
+Rfc/*.session-journal
+Rfc.session-journal
 *.session
 
 # Byte-compiled / optimized / DLL files
