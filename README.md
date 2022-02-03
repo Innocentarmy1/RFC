@@ -21,4 +21,8 @@ TELEGRAM POWERFULL GROUP MANAGEMENT BOT
  ━━━━━━━━━━━━━━━━━━━━━━
 
 ### ㅤㅤㅤㅤCREDITS 😘
-[ɢɪᴛʜᴜʙ💞](https://github.com/Innocentarmy1)ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ᴍᴇ ᴏɴ [ᴛᴇʟᴇɢʀᴀᴍ💔](https://telegram.me/anonymous_was_bot)
+[ɢɪᴛʜᴜʙ💞](https://github.com/Innocentarmy1)ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ᴍᴇ ᴏɴ [ᴛᴇʟᴇɢʀᴀᴍ💔](https://telegram.me/deewana_mahadev_ka)
+
+
+
+
